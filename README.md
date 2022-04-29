@@ -29,11 +29,13 @@ Tab 2:-
 ---
 -Tab 1
 ---
-![](https://github.com/Sandra-Essa/Sampling_And_Reconstructed_Signal/blob/main/GIF/Sampling_GIF1.gif)
+![sampling](https://user-images.githubusercontent.com/61379163/165866466-ae991f57-629d-4630-9a8a-13501fd4fe40.gif)
+
 ----
 -Tab 2
 ---
-![](https://github.com/Sandra-Essa/Sampling_And_Reconstructed_Signal/blob/main/GIF/Sampling_GIF2.gif)
+![Sampling_GIF2](https://user-images.githubusercontent.com/61379163/165866499-7858cece-f56b-46d9-b282-1cee1a9d8d81.gif)
+
 ----
 
 ### Tools
